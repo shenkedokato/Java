@@ -1,8 +1,9 @@
 name: ci
-on: push
+on:
+  push:
 jobs:
   commit_message:
-    run-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
-      name: commit_name_actor
-      run: echo "commit $github.actor"
+      - name: commit_name_actor
+        run: echo "commit ${{ github.actor }}"
