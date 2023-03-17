@@ -3,5 +3,6 @@ on: push
 jobs:
   commit_message:
     run-on: ubuntu-lastest
-    name: commit_name_actor
-    run: echo "commit $github.actor"
+    steps:
+      name: commit_name_actor
+      run: echo "commit $github.actor"
