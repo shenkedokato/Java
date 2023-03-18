@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bai10",
+      "request": "launch",
+      "mainClass": "src.bai10",
+      "projectName": "Java_c15a2345"
+    },
+    {
+      "type": "java",
+      "name": "bai6",
+      "request": "launch",
+      "mainClass": "src.bai6",
+      "projectName": "Java_c15a2345"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/PC/Downloads/clonefromgit/Java/Lab1_home/src",
+      "program": "c:/Users/PC/Downloads/clonefromgit/Java/Lab1_home/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
