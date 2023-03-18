@@ -1,9 +1,8 @@
 package src;
-
-import java.util.Scanner;
-
-public class bai10 {
+import java.util.*;
+public class bai6 {
  
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Nhap so dong cua mang A: ");
@@ -85,5 +84,7 @@ public class bai10 {
         return true;
     }
 }
+
+
 
 
