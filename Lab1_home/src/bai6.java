@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class bai6 {
+public class bai10 {
  
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
