@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bai7",
+      "request": "launch",
+      "mainClass": "src.bai7",
+      "projectName": "Java_c15a2345"
+    },
+    {
+      "type": "java",
       "name": "bai10",
       "request": "launch",
       "mainClass": "src.bai10",
