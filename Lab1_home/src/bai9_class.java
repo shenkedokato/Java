@@ -3,7 +3,7 @@ import java.lang.Math;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class bai9 {
+public class bai9_class {
     public static void main(String[]arg){
         //Xuất các phần tử trong mảng một chiều. (Hướng dẫn: sử dụng hàm Arrays.toString)
         Scanner input=new Scanner(System.in);
