@@ -73,4 +73,11 @@ public class HangThucPham extends HangHoa {
         System.out.println("Ngay het han: " + ngayHetHan);
         System.out.println("Nha cung cap: " + nhaCungCap);
     }
+      public String danhGiaBanBuon() {
+        if (ngayHetHan.isBefore(LocalDate.now()) && soLuongTon > 2) {
+            return "Khó bán";
+        } else {
+            return "Dễ bán";
+        }
+    }
     }
