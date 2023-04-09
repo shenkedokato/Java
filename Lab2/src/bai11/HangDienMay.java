@@ -61,5 +61,11 @@ public class HangDienMay extends HangHoa {
         soLuongTon -= soLuongTon;
         return thanhTien;
     }
+      public boolean danhGiaBanBuon() {
+        if (soLuongTon < 3) {
+            return true;
+        }
+        return false;
+    }
 
 }
