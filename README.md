@@ -42,7 +42,11 @@
 ```
 ----Java
   |---.github
-  | |--workflow
+  | |---workflow
+  |---Đồ án
+  | |---Library
+  | |---Phân tích thiết kế
+  | |---Script
   |---Lab
   |---Seminar
   |---README
