@@ -69,7 +69,7 @@ Với các yêu cầu đề xuất trên là mục tiêu trong phần mềm qu�
 | 5  | Huy Nhật Phương Nguyễn  | 21522156 |                  |              |
   
 
-# Nhiệm vụ, đánh giá và công việc cụ thể sẽ được thêm vào và đánh giá sau khi dự án hoàn thành
+### Nhiệm vụ, đánh giá và công việc cụ thể sẽ được thêm vào và đánh giá sau khi dự án hoàn thành
   
 ### <h2 id="thuvien">Các thư viện sử dụng</h2>
 
@@ -93,7 +93,7 @@ Hệ thống được xây dựng dựng bởi các công cụ hiện đại:
 - Nhân viên sẽ được cấp mục sau:
   + Quản lý sản phẩm (<b>thêm, xoá, sửa, tra cứu</b>)
   + Quản lý khách hàng (<b>thêm, xoá, sửa, tra cứu</b>)
-  + Quản lý khà cung cấp (<b>thêm, xoá, sửa, tra cứu</b>)
+  + Quản lý nhà cung cấp (<b>thêm, xoá, sửa, tra cứu</b>)
   + Quản lý bán hàng (<b>thêm, xoá, sửa, tra cứu</b>)
   + Quản lý khuyến mãi (<b>thêm, xoá, sửa, tra cứu</b>)
 - Tạo account tương ứng cho quản lý, nhân viên và tự động phân quyền theo các role đã được định sẵn. 
