@@ -33,7 +33,6 @@
       <a href="#chucnang">Các chức năng</a>
     </li>
     <li><a href="#yeucau">Yêu cầu hệ thống</a></li>
-    <li>
     </li>
     <li><a href="#thamkhao">Tài liệu tham khảo</a></li>
   </ol>
@@ -53,12 +52,12 @@
   <!-- ABOUT THE PROJECT -->
 ## <h2 id="muctieu">Mục tiêu của đồ án</h2>
 Đáp ứnh được yêu cầu xây dựng một ứng dụng quản lý cửa hàng bán điện thoại di động với các yêu cầu chặt chẽ và thuyết phục sau:
-    - Mục tiêu của ứng dụng là quản lý thông tin khách hàng và nhà cung cấp một cách hiệu quả và nhanh chóng. 
-    - Cập nhật thông tin sản phẩm xuất nhập mỗi ngày, cập nhật tình hình doanh số và số liệu sản phẩm trong kho.
-    - Đơn giản hóa quá trình mua bán sản phẩm online, quản lý phản hồi và đóng góp ý kiến của khách hàng, kết hợp với các sự kiện khuyến mãi giúp khách hàng hiểu rõ hơn về chương trình áp dụng.
-    - Quản lý thông tin bảo hành và giao dịch của khách hàng, quản lý tình hình nhân viên và cập nhật thông tin sản phẩm cần nhập hàng và tiền hàng nhập sản phẩm. 
+- Mục tiêu của ứng dụng là quản lý thông tin khách hàng và nhà cung cấp một cách hiệu quả và nhanh chóng. 
+- Cập nhật thông tin sản phẩm xuất nhập mỗi ngày, cập nhật tình hình doanh số và số liệu sản phẩm trong kho.
+- Đơn giản hóa quá trình mua bán sản phẩm online, quản lý phản hồi và đóng góp ý kiến của khách hàng, kết hợp với các sự kiện khuyến mãi giúp khách hàng hiểu rõ hơn về chương trình áp dụng.
+- Quản lý thông tin bảo hành và giao dịch của khách hàng, quản lý tình hình nhân viên và cập nhật thông tin sản phẩm cần nhập hàng và tiền hàng nhập sản phẩm. 
 
-    Với các yêu cầu đề xuất trên là mục tiêu trong phần mềm quản lý đối với cửa hàng bán điện thoại di động. Khi áp dụng vào thực tiễn ứng dụng sẽ giảm thiểu việc sử dụng các phương pháp thủ công và làm hiện đại hóa quá trình mua bán giữa khách hàng và nhà sản xuất, giúp tiếp cận khách hàng một cách hiệu quả và tiết kiệm thời gian thông qua việc truy cập vào ứng dụng.
+Với các yêu cầu đề xuất trên là mục tiêu trong phần mềm quản lý đối với cửa hàng bán điện thoại di động. Khi áp dụng vào thực tiễn ứng dụng sẽ giảm thiểu việc sử dụng các phương pháp thủ công và làm hiện đại hóa quá trình mua bán giữa khách hàng và nhà sản xuất, giúp tiếp cận khách hàng một cách hiệu quả và tiết kiệm thời gian thông qua việc truy cập vào ứng dụng.
 ## <h2 id="dsthanhvien">Các thành viên tham gia project</h2>
  
 | STT| Họ tên                  | MSSV     |     Nhiệm vụ     |   Đánh giá % |
