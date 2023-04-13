@@ -70,7 +70,7 @@ Với các yêu cầu đề xuất trên là mục tiêu trong phần mềm qu�
 | 2  | Ngô Tất Tố              | 21520484 |                  |              | 
 | 3  | Lê Xuân Thạch           | 21521421 |                  |              |
 | 4  | Nguyễn Quang Huy        | 20521403 |                  |              |
-| 5  | Huy Nhật Phương Nguyễn  | 21522156 |                  |              |
+| 5  | Nguyễn Nhật Phương Huy  | 21522156 |                  |              |
   
 
 ### Nhiệm vụ, đánh giá và công việc cụ thể sẽ được thêm vào và đánh giá sau khi dự án hoàn thành
