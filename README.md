@@ -41,15 +41,15 @@
 ## Directory structure
 ```
 ----Java
-  |---.github
-  | |---workflow
-  |---Đồ án
-  | |---Library
-  | |---Phân tích thiết kế
-  | |---Script
-  |---Lab
-  |---Seminar
-  |---README
+    |---.github
+    |   |---workflow
+    |---Đồ án
+    |   |---Library
+    |   |---Phân tích thiết kế
+    |   |---Script
+    |---Lab
+    |---Seminar
+    |---README
 
 ```
   
