@@ -23,7 +23,12 @@ public class GamePanel extends JPanel implements Runnable {
     TileManager tileM=new TileManager(this);
     Thread gameThread;
     public CollisionChecker cChecker=new CollisionChecker(this);
-    Player player=new Player(this);
+    Player player1=new Player(this,"car1.png",50,200);
+    Player player2=new Player(this,"car2.png",50,100);
+    Player player3=new Player(this,"car3.png",50,320);
+    Player player4=new Player(this,"car4.png",50,450);
+    Player player5=new Player(this,"car5.png",50,570);
+
     int playerX=100;
     int playerY=100;
     int playerSpeed=4;
@@ -85,13 +90,22 @@ public class GamePanel extends JPanel implements Runnable {
        }
     }
     public void update(){
-        player.update();
+        player1.update();
+        player2.update();
+        player3.update();
+        player4.update();
+        player5.update();
+
     }
     public void paintComponent(Graphics g){
         super.paintComponent(g);
         Graphics2D g2= (Graphics2D)g;
         tileM.draw(g2);
-        player.draw(g2);
+        player1.draw(g2);
+        player2.draw(g2);
+        player3.draw(g2);
+        player4.draw(g2);
+        player5.draw(g2);
         g2.dispose();
     }
 }
