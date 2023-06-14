@@ -39,6 +39,6 @@ public class Player extends Entity {
     }
     public void draw(Graphics2D g2){
         BufferedImage image =nv;
-        g2.drawImage(image, x, y,gp.tileSize,gp.tileSize,null);
+        g2.drawImage(image, x, y,gp.tileSize*3,gp.tileSize*3,null);
     }
 }
