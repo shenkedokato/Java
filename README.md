@@ -10,7 +10,7 @@
   <p align="center">
     Hệ thống quản lý bán hàng điện thoại di động
     <br />
-    <a href="https://github.com/shenkedokato/Java"><strong>Khám phá »</strong></a>
+    <a href="https://github.com/tatto2k3/DoAnJava"><strong>Khám phá »</strong></a>
     <br />
     <br />
   </p>
